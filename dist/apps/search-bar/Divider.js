@@ -1,0 +1,1 @@
+import{j as o}from"./vendor1.js";const r=({className:r,borderWidth:t,color:i,marginTop:m,marginLeft:a,marginRight:d,marginBottom:e})=>o.jsx("div",{className:r,style:{borderBottomStyle:"solid",borderBottomColor:i??"#DCDEE2",borderBottomWidth:t??"1px",marginTop:m??void 0,marginLeft:a??void 0,marginRight:d??void 0,marginBottom:e??void 0}});export{r as D};

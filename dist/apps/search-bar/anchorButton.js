@@ -1,0 +1,1 @@
+function e(){const e=document.querySelector(".go-to-anchor-button");e&&e.addEventListener("click",e=>{const t=document.getElementById("nav-benefits");t&&t.scrollIntoView({behavior:"smooth",block:"center"})})}"loading"===document.readyState?document.addEventListener("DOMContentLoaded",e):e();export{e as anchorButtonScroll};
